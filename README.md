@@ -2,8 +2,8 @@
 
 - **Name:** Jaweria Mushtaq
 - **University:** University of Narowal
-- **Domain:** AI / Machine Learning
-- **Contact:** 03XX-XXXXXXX
+- **Domain:** AI 
+- **Contact:** 03284151331
 
 ## AI (Introduction & Foundations) (27 Oct - 5 Nov 2026)
 
