@@ -20,5 +20,3 @@
 | [AI-Task9](AI-Task9) | Modular News Briefing Builder | `AI_Task9_News_Briefing_Builder.ipynb` |
 | [AI-Project](AI-Project) | AI Job Screening Portal | `AI_Job_Screening_Portal.ipynb` |
 
-Har folder mein Google Colab notebook (`.ipynb`) aur README hai. **Open In Colab** ke buttons har README mein hain.
-Saari API keys `.env` ya Colab Secrets mein rehti hain, code mein kabhi nahi. Keys na hon to notebooks demo mode mein chalte hain.
